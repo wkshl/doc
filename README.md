@@ -9,13 +9,13 @@
 <a target="_blank" href="https://github.com/wkshl/Cicrle-Icon-Pack/actions/workflows/build.yml">
 <img src="https://github.com/wkshl/Cicrle-Icon-Pack/actions/workflows/build.yml/badge.svg?branch=sample" /></a>
 
-This is a beautiful icon pack for Android.<br>
-*This icon pack is powered by [Blueprint](https://github.com/jahirfiquitiva/Blueprint).
+这是一套围绕“大圆角”为特殊设计理念的图标，精简您桌面图标的横幅广告，角标广告，保留应用最想传递的信息（例：京东保留中间的京东狗）。
+图标运用色彩大胆，中心表达内容清晰。<br>
 
 
 <img src="./public/DemoPic.png" width="700" alt="" />
 
-## ⭐ Previews
+## ⭐ 快速导航目录
 ### Home / Icons / WallPaper / Desktop
 <p align="center">
 <img src="./public/Home.jpg" height="350"/>
@@ -24,21 +24,8 @@ This is a beautiful icon pack for Android.<br>
 <img src="./public/Desktop.jpg" height="350"/>
 </p>
 
-# 💪🏻 Developed by
+# 💪🏻 开发人员
 
-### [Jahir Fiquitiva](https://jahir.dev/) - Blueprint
-Free, feature-rich, easily customizable Android dashboard for icon packs
-
-[![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
-[![Twitter Follow](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
-
-If you found this app/library helpful and want to thank me, you can:
-
-<a target="_blank" href="https://jahir.dev/donate/">
-<img src="https://jahir.dev/share/support_my_work.svg?maxAge=432000" width="200"/>
-</a>
-
-**Thanks in advance!** :pray:
 
 ### [Sh1n3zZ](https://shinezz.cc/) - Web Page Development
 [![Follow on GitHub](https://img.shields.io/github/followers/Sh1n3zZ.svg?style=social&label=Follow)](https://github.com/Sh1n3zZ)
@@ -47,11 +34,11 @@ If you found this app/library helpful and want to thank me, you can:
 
 Upload software to Google Play / GitHub upload maintenance / Official website operation and maintenance
 
-### [王小辰](https://github.com/wkshl) - Software production
-Software production
+### [王小辰 Wkshl](https://github.com/wkshl) - 适配编写
+适配编写，界面二次更改
 
-### [一個小果冻](http://www.coolapk.com/u/1032987) - Icon drawing
-Icon drawing
+### [一個小果冻](http://www.coolapk.com/u/1032987) - 图标绘制
+绘制图标，reCircle所以图标包都是果冻画的！
 
 ## Special thanks 🙌
 
