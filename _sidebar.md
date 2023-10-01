@@ -1,5 +1,6 @@
 * [重圆reCircle Icon Pack](/hitokoto.md)
-  * [更新日志](/recircle-gengxin.md) 
+  * [更新日志](/recircle-gengxin.md)
+  * [适配桌面](/recircle-home)
   * [适配数量与桌面适配](/variable-hitokoto.md)
   * [购买与退款](/example-hitokoto.md)
   * [使用简介与界面介绍](/all-hitokoto.md)
