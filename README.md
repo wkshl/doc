@@ -16,7 +16,6 @@
 <img src="./public/DemoPic.png" width="700" alt="" />
 
 ## ⭐ 快速导航目录
-### Home / Icons / WallPaper / Desktop
 * [重圆reCircle Icon Pack](/hitokoto.md)
   * [更新日志](/recircle-gengxin.md)
   * [适配桌面](/recircle-home)
