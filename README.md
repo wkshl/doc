@@ -1,6 +1,6 @@
 <img src="./public/circle.png" width="192" align="right" hspace="20" />
 
-# <center> reCicrle-Icon-Pack——重圆图标包
+ <center> # reCicrle-Icon-Pack——重圆图标包 </center>
 
 <a target="_blank" href="https://github.com/wkshl/Cicrle-Icon-Pack"><img src="https://img.shields.io/github/stars/wkshl/Cicrle-Icon-Pack" /></a> 
 <a target="_blank" href="https://github.com/wkshl/Cicrle-Icon-Pack"><img src="https://img.shields.io/github/last-commit/wkshl/Cicrle-Icon-Pack" /></a>
