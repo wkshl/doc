@@ -17,12 +17,15 @@
 
 ## ⭐ 快速导航目录
 ### Home / Icons / WallPaper / Desktop
-<p align="center">
-<img src="./public/Home.jpg" height="350"/>
-<img src="./public/Icons.jpg" height="350"/>
-<img src="./public/WallPaper.jpg" height="350"/>
-<img src="./public/Desktop.jpg" height="350"/>
-</p>
+* [重圆reCircle Icon Pack](/hitokoto.md)
+  * [更新日志](/recircle-gengxin.md)
+  * [适配桌面](/recircle-home)
+  * [适配数量与桌面适配](/variable-hitokoto.md)
+  * [购买](/recircle-buy.md)
+  * [使用简介与界面介绍](/all-hitokoto.md)
+* [云轻](/suiteki.md)
+  * [预告与进展](/start-suiteki.md)
+
 
 # 💪🏻 开发人员
 
