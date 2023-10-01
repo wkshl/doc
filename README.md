@@ -1,6 +1,6 @@
 <img src="./public/circle.png" width="192" align="right" hspace="20" />
 
-# Cicrle-Icon-Pack
+# reCicrle-Icon-Pack——重圆图标包
 
 <a target="_blank" href="https://github.com/wkshl/Cicrle-Icon-Pack"><img src="https://img.shields.io/github/stars/wkshl/Cicrle-Icon-Pack" /></a> 
 <a target="_blank" href="https://github.com/wkshl/Cicrle-Icon-Pack"><img src="https://img.shields.io/github/last-commit/wkshl/Cicrle-Icon-Pack" /></a>
@@ -12,9 +12,6 @@
 This is a beautiful icon pack for Android.<br>
 *This icon pack is powered by [Blueprint](https://github.com/jahirfiquitiva/Blueprint).
 
-<a target="_blank" href="https://github.com/wkshl/Cicrle-Icon-Pack/releases">
-<img src="https://jahir.dev/share/download_sample.svg?maxAge=432000" width="200"/>
-</a>
 
 <img src="./public/DemoPic.png" width="700" alt="" />
 
