@@ -2,7 +2,7 @@
   * [更新日志](/recircle-gengxin.md)
   * [适配桌面](/recircle-home)
   * [适配数量与桌面适配](/variable-hitokoto.md)
-  * [购买与退款](/example-hitokoto.md)
+  * [购买](/recircle-buy.md)
   * [使用简介与界面介绍](/all-hitokoto.md)
 * [云轻](/suiteki.md)
   * [预告与进展](/start-suiteki.md)
